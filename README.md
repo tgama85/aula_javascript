@@ -1,6 +1,6 @@
 # Aula de JavaScript
 
-Uso básico do JavaScript, curso ministrado por Guilherme Cabrini da Silva na [Digital Innovation One](https://www.digitalinnovation.one/ "Digital Innovation One").
+Uso básico do JavaScript, curso ministrado por Rafael Galleani na [Digital Innovation One](https://www.digitalinnovation.one/ "Digital Innovation One").
 
 Alteração no código:
 - Inlusão de padrões de cores pensando na experiência do usuário UX;
